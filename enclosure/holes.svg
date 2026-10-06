@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="holes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0592242"
+     inkscape:cx="396.51663"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9-3"
+       transform="translate(-9.7648184,-9.8766892)">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.115319"
+         id="path3-8"
+         cx="-64.3908"
+         cy="115.30363"
+         rx="1.9423407"
+         ry="1.9423405" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.115319"
+         id="path3-3-5"
+         cx="-64.3908"
+         cy="179.28387"
+         rx="1.9423407"
+         ry="1.9423405" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.115319"
+         id="path3-1-6"
+         cx="271.01843"
+         cy="179.28387"
+         rx="1.9423407"
+         ry="1.9423405" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.115319"
+         id="path3-36-1"
+         cx="271.01843"
+         cy="115.30363"
+         rx="1.9423407"
+         ry="1.9423405" />
+    </g>
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.115319"
+       id="path3-1-2-1"
+       cx="93.549019"
+       cy="169.4072"
+       rx="1.9423407"
+       ry="1.9423405" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.115319"
+       id="path3-36-9-5"
+       cx="93.549019"
+       cy="105.42693"
+       rx="1.9423407"
+       ry="1.9423405" />
+  </g>
+</svg>
